@@ -33,6 +33,7 @@
 
 - [STM32StepByStep:Step2 Blink LED](https://wiki.stmicroelectronics.cn/stm32mcu/wiki/STM32StepByStep:Step2_Blink_LED)：通过点灯，快速熟悉 IDE 的开发流程。
 - [CH341 串口驱动](https://www.wch-ic.com/downloads/CH341SER_EXE.html)：除了老师一般会发的 Windows 版本外，还含有 MacOS 和 Linux 的版本。
+- [printf 重定向](https://github.com/STMicroelectronics/STM32CubeH7/blob/master/Projects/STM32H743I-EVAL/Examples/UART/UART_Printf/Src/main.c): STM32 官方文档中的重定向方法。
 
 > 文/[Kowyo](https://github.com/kowyo)
 
