@@ -1,18 +1,32 @@
 # 自动控制实践B
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-6-moccasin)
+![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86（19~21级）-6-moccasin)![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86（22级）-4-moccasin)
 
-![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（21级）-gold)
 ![Static Badge](https://img.shields.io/badge/作业-10%25-wheat)
 ![Static Badge](https://img.shields.io/badge/实验-40%25-wheat)
 ![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
 
+![Static Badge](https://img.shields.io/badge/学时安排（22级）-gold)
+![Static Badge](https://img.shields.io/badge/总学时-64-wheat)
+![Static Badge](https://img.shields.io/badge/授课-48-wheat)
+![Static Badge](https://img.shields.io/badge/实验-16-wheat)
+
+自22级开始，本课程原有的STM32理论部分和基础实验、调速实验部分均被纳入大三上的拓展选修课[《嵌入式系统》](https://hoa.moe/docs/junior-spring/auto3024/)中。有关资料也已经转移，请移步查看。综合实验报告仍予保留。
+
+## 教材及参考书
+
+- 王广雄、何朕，控制系统设计，清华大学出版社。
 
 ## 授课教师
 
-- 教师 1: 董广忠
-  - 授课风格：
-  - 听课建议：
+- 理论课: 董广忠
+  - 授课风格：通过加入密度极高的无意义衬词以及含糊其辞的表述，成功达到让人听不懂的效果。
+  - 听课建议：不考勤。上课会提示重点，建议课后倍速听回放。课件在教师主页，不在qq群发放。
+    
+> 文/[Oliver Wu](https://github.com/oliverwu515)
+  
+- 实验课：王彬彬、刘瑞
 
 ## 关于考试
 
@@ -21,21 +35,6 @@
 
 > 文/[xander-2077](https://github.com/xander-2077)
 
-## 实验
+- 主要是大背诵。
 
-21级实验课的内容是 STM32 开发，实验涵盖了：GPIO、外部中断、串口通信、DMA 等功能的上手。开发板的 MCU 型号是 STM32F407ZGT6，软件是 MDK v5 + CubeMX。
-
-实验软件所使用的 CubeMX 是 STM32Cube ———— 目前 STM32 最主流的开发方式的重要一环。而2019年推出的 STM32CubeIDE，则是这个生态系统的集大成者。
-
-与 MDK 不同的是，STM32CubeIDE 还提供对 MacOS 或者 Linux 操作系统的支持。我非常推荐大家使用 STM32CubeIDE 这个 All in one 的软件（包含了 CubeMX，可以不用单独下载）进行使用。
-
-以下是一些有用的链接：
-
-- [STM32StepByStep:Step2 Blink LED](https://wiki.stmicroelectronics.cn/stm32mcu/wiki/STM32StepByStep:Step2_Blink_LED)：通过点灯，快速熟悉 IDE 的开发流程。
-- [CH341 串口驱动](https://www.wch-ic.com/downloads/CH341SER_EXE.html)：除了老师一般会发的 Windows 版本外，还含有 MacOS 和 Linux 的版本。
-- [printf 重定向](https://github.com/STMicroelectronics/STM32CubeH7/blob/master/Projects/STM32H743I-EVAL/Examples/UART/UART_Printf/Src/main.c): STM32 官方文档中的重定向方法。
-
-> 文/[Kowyo](https://github.com/kowyo)
-
- 
-
+> 文/[Oliver Wu](https://github.com/oliverwu515)
