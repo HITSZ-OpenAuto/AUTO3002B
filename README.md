@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/授课-48-wheat)
 ![Static Badge](https://img.shields.io/badge/实验-16-wheat)
 
-自22级开始，本课程原有的STM32理论部分和基础实验、调速实验部分均被纳入大三上的拓展选修课[《嵌入式系统》](https://hoa.moe/docs/junior-spring/auto3024/)中。有关资料也已经转移，请移步查看。综合实验报告仍予保留。
+自22级开始，本课程原有的STM32理论部分和基础实验、调速实验部分均被纳入大三上的拓展选修课[《嵌入式系统》](https://hoa.moe/docs/junior-autumn/auto3024/)中。有关资料也已经转移，请移步查看。综合实验报告仍予保留。
 
 ## 教材及参考书
 
