@@ -1,0 +1,302 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1417,
+    "time": 1751969733,
+    "hash": "6346890aa3ff63355fdae88cbee3c666371ed06d"
+  },
+  ".gitignore": {
+    "size": 15,
+    "time": 1715260942,
+    "hash": "d3747080cbb3670e74af7cb4560fffb040092c08"
+  },
+  ".hoa/worktree.json": {
+    "size": 9069,
+    "time": 1751770063,
+    "hash": "a5cd92ef97684942782ffce63e98148b47dbff33"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1715260942,
+    "hash": "d3747080cbb3670e74af7cb4560fffb040092c08"
+  },
+  "README.md": {
+    "size": 3104,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737630851,
+    "hash": "260420493df3e462b88913b743d3627c169a1338"
+  },
+  "assignments/LL/HW1.pdf": {
+    "size": 64620,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/LL/HW2.pdf": {
+    "size": 632426,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/LL/HW3.pdf": {
+    "size": 86137,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/LL/HW4.pdf": {
+    "size": 121673,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/LL/HW5.pdf": {
+    "size": 226550,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw1/code/hw1_a.m": {
+    "size": 1704,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw1/code/hw1_b.m": {
+    "size": 1104,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw1/hw1-psp.docx": {
+    "size": 703633,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw1/hw1.pdf": {
+    "size": 112124,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw1/simu/simu_22a.slx": {
+    "size": 43316,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw1/simu/simu_25a.slx": {
+    "size": 41642,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw2/hw2-psp.docx": {
+    "size": 604097,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw2/hw2.pdf": {
+    "size": 63831,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw2/simu/simu_22a.slx": {
+    "size": 44863,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "assignments/psp/hw2/simu/simu_25a.slx": {
+    "size": 47518,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737630851,
+    "hash": "260420493df3e462b88913b743d3627c169a1338"
+  },
+  "exams/本部/答案/2020 控制系统实践II试题-psp详解.pdf": {
+    "size": 5739915,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "exams/本部/答案/2020 控制系统实践II试题答案.pdf": {
+    "size": 5835823,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "exams/本部/答案/控制系统实践II复习题-psp详解.pdf": {
+    "size": 16517949,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "exams/本部/题目/2020 控制系统实践II试题.pdf": {
+    "size": 1830237,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "exams/本部/题目/控制系统实践II复习题.pdf": {
+    "size": 16317391,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "exams/深圳/2021 自动控制实践B试题与答案-psp详解.pdf": {
+    "size": 2433321,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "exams/深圳/2021 自动控制实践B试题与答案.pdf": {
+    "size": 667974,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "exams/深圳/2024 自动控制实践B试题回忆版-psp详解.pdf": {
+    "size": 9639143,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "exams/深圳/2024 自动控制实践B试题回忆版.pdf": {
+    "size": 668417,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737630851,
+    "hash": "260420493df3e462b88913b743d3627c169a1338"
+  },
+  "labs/2024/LJH/ljh_综合实验报告_18号机.pdf": {
+    "size": 1832163,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "labs/2024/WJD/wjd_综合.pdf": {
+    "size": 2529348,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "labs/2025/psp/2025-psp.docx": {
+    "size": 2383665,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "labs/2025/psp/simu/simu_22a.slx": {
+    "size": 37806,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "labs/2025/psp/simu/simu_25a.slx": {
+    "size": 104904,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "labs/2025/实验任务书.pdf": {
+    "size": 5913808,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "labs/2025/实验报告模板.docx": {
+    "size": 1000309,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737630851,
+    "hash": "260420493df3e462b88913b743d3627c169a1338"
+  },
+  "notes/November_in_North_自控实践B笔记.pdf": {
+    "size": 102195946,
+    "time": 1749693369,
+    "hash": "b899b72a54a4f8325ee2d30edfb37a9390792c2e"
+  },
+  "notes/README.md": {
+    "size": 1526,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "notes/Revision of Auto-Practical.pdf": {
+    "size": 9878666,
+    "time": 1715260942,
+    "hash": "d3747080cbb3670e74af7cb4560fffb040092c08"
+  },
+  "notes/【2025春季学期】自动控制实践B课程总结笔记-22级自动化-刘劭航-v1.2.pdf": {
+    "size": 2706490,
+    "time": 1748973593,
+    "hash": "7e64cb13c8d77da9e1ba5ca609775740644174bd"
+  },
+  "notes/自控实践B复习_Tintin.pdf": {
+    "size": 6730589,
+    "time": 1719312388,
+    "hash": "01184356ab89fd3825134d5e7af329af7f283925"
+  },
+  "notes/自控实践复习整理byAb1g2he.pdf": {
+    "size": 3556909,
+    "time": 1721142044,
+    "hash": "6fe4213cb1b53550e0dd5a43c6ccfb0a25ac13ed"
+  },
+  "slides/课件-带笔记-psp/1 绪论.pdf": {
+    "size": 733883,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/10 课程习题讲解.pdf": {
+    "size": 3324949,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "slides/课件-带笔记-psp/2 控制系统的设计流程.pdf": {
+    "size": 2425842,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "slides/课件-带笔记-psp/3.1 控制系统的输入条件分析-输入.pdf": {
+    "size": 13990712,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/3.2 控制系统输入条件分析-干扰.pdf": {
+    "size": 7178164,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/3.3 控制系统输入条件分析-噪声.pdf": {
+    "size": 9586897,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/4 控制系统的设计约束.pdf": {
+    "size": 12626383,
+    "time": 1750990341,
+    "hash": "6fef5f42856f98c3014ec6ccc68b9de53f27dc06"
+  },
+  "slides/课件-带笔记-psp/5 Anti-Windup设计.pdf": {
+    "size": 6698650,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/6 伺服系统.pdf": {
+    "size": 6557385,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/7 调节系统的设计.pdf": {
+    "size": 7456446,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/8 多回路系统的设计.pdf": {
+    "size": 5344936,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/9 课程总结.pdf": {
+    "size": 1365924,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "slides/课件-带笔记-psp/README.md": {
+    "size": 569,
+    "time": 1749693285,
+    "hash": "c814f274ae077bb4d359481533144c9add32110d"
+  },
+  "tag.txt": {
+    "size": 71,
+    "time": 1715260942,
+    "hash": "d3747080cbb3670e74af7cb4560fffb040092c08"
+  }
+}
