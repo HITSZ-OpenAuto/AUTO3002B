@@ -8,27 +8,28 @@ description = """
 3. 本部相关课程名为《智能系统控制实践》，为校本部未来技术学院自动化、探测制导与控制技术、智能装备与系统及相关专业本科生的必修课程。
 """
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "董广忠"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：通过加入密度极高的无意义衬词以及含糊其辞的表述，成功达到让人听不懂的效果。答疑态度十分一般。
 听课建议：不考勤。上课会提示重点，建议课后倍速听回放。课件在教师主页，不在 qq 群发放。
 """
 author = { name = "Oliver Wu", link = "https://github.com/oliverwu515", date = "" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王彬彬/刘瑞"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "实验课教师。如遇到问题，建议自行 Google。"
 author = { name = "Oliver Wu", link = "https://github.com/oliverwu515", date = "" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "马克茂"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 （本部）理论课。
 授课风格：讲课节奏十分奇怪，课件内容较其他老师相对更少。
@@ -36,10 +37,10 @@ content = """
 """
 author = { name = "Costannt", link = "https://github.com/Costannt", date = "2026-01" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "霍鑫"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 （本部）理论课。
 授课风格：讲课生动有趣，课件内容丰富，非常精美。历年风评极佳。
@@ -47,10 +48,10 @@ content = """
 """
 author = { name = "Costannt", link = "https://github.com/Costannt", date = "2026-01" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "姜宇"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "（本部）实验课。答疑态度非常一般，但实验给分相对宽松。"
 author = { name = "Costannt", link = "https://github.com/Costannt", date = "2026-01" }
 
