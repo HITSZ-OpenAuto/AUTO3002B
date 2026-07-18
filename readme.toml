@@ -121,8 +121,9 @@ content = """
 - **重点**：注意老师给出的重点。理论部分主要是固定模型，注意公式推导和转换。实践部分过一遍 PPT 即可。
 - 主要是大背诵。
 """
-author = [{ name = "xander-2077", link = "https://github.com/xander-2077", date = "" },
-{ name = "Oliver Wu", link = "https://github.com/oliverwu515", date = "" }
+author = [
+  { name = "xander-2077", link = "https://github.com/xander-2077", date = "" },
+  { name = "Oliver Wu", link = "https://github.com/oliverwu515", date = "" },
 ]
 
 [[sections.items]]

@@ -1,92 +1,117 @@
-# 自动控制实践 B
+# AUTO3002B - 自动控制实践 B
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86（19~21级）-6-moccasin)![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86（22级）-4-moccasin)
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
+![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
+![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
-![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（21级）-gold)
-![Static Badge](https://img.shields.io/badge/作业-10%25-wheat)
-![Static Badge](https://img.shields.io/badge/实验-40%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
-
-![Static Badge](https://img.shields.io/badge/学时安排（22级）-gold)
-![Static Badge](https://img.shields.io/badge/总学时-64-wheat)
-![Static Badge](https://img.shields.io/badge/授课-48-wheat)
-![Static Badge](https://img.shields.io/badge/实验-16-wheat)
-
-自 22 级开始，本课程原有的 STM32 理论部分和基础实验、调速实验部分均被纳入大三上的拓展选修课[《嵌入式系统》](https://hoa.moe/docs/junior-autumn/auto3024/)中。有关资料也已经转移，请移步查看。综合实验报告仍予保留。
-
-注意，该课程为哈工大本部/深圳的考研复试课程。
-
-本部相关课程：**《智能系统控制实践》**。
-
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86（23级）-5.5-moccasin)
-
-![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（23级）-gold)
-![Static Badge](https://img.shields.io/badge/作业-10%25-wheat)
-![Static Badge](https://img.shields.io/badge/实验-30%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
-
-![Static Badge](https://img.shields.io/badge/学时安排（23级）-gold)
-![Static Badge](https://img.shields.io/badge/总学时-88-wheat)
-![Static Badge](https://img.shields.io/badge/授课-56-wheat)
-![Static Badge](https://img.shields.io/badge/实验-32-wheat)
-
-本课程为校本部未来技术学院自动化、探测制导与控制技术、智能装备与系统及相关专业本科生的必修课程。
-
-注意，该课程为哈工大本部/深圳的考研复试课程。
-
-## 教材及参考书
-
-- （深圳+本部）王广雄、何朕，控制系统设计，清华大学出版社。
-- （本部）梅晓榕主编，自动控制元件及线路（第五版），科学出版社。
-- （本部）丛爽，智能控制系统及应用，中国科学技术大学出版社。
+1. 自 22 级开始，本课程原有的 STM32 理论部分和基础实验、调速实验部分均被纳入大三上的拓展选修课[《嵌入式系统》](https://hoa.moe/docs/junior-autumn/auto3024/)中。
+2. 该课程为哈工大本部/深圳的考研复试课程。
+3. 本部相关课程名为《智能系统控制实践》，为校本部未来技术学院自动化、探测制导与控制技术、智能装备与系统及相关专业本科生的必修课程。
 
 ## 授课教师
 
-- 理论课: 董广忠
+<!-- TOML-LECTURERS: part="items" -->
+- 董广忠
+  <!-- TOML-ITEM: id="review-董广忠-1" -->
   - 授课风格：通过加入密度极高的无意义衬词以及含糊其辞的表述，成功达到让人听不懂的效果。答疑态度十分一般。
   - 听课建议：不考勤。上课会提示重点，建议课后倍速听回放。课件在教师主页，不在 qq 群发放。
-
-> 文 / [Oliver Wu](https://github.com/oliverwu515)
-
-- 实验课：王彬彬、刘瑞
-  - 如遇到问题，建议自行 Google。
-
-<!-- 下为本部情况 -->
-
-- （本部）理论课: 马克茂
+    > 文 / [Oliver Wu](https://github.com/oliverwu515)
+- 王彬彬/刘瑞
+  <!-- TOML-ITEM: id="review-王彬彬/刘瑞-1" -->
+  - 实验课教师。如遇到问题，建议自行 Google。
+    > 文 / [Oliver Wu](https://github.com/oliverwu515)
+- 马克茂
+  <!-- TOML-ITEM: id="review-马克茂-1" -->
+  - （本部）理论课。
   - 授课风格：讲课节奏十分奇怪，课件内容较其他老师相对更少。
   - 听课建议：不考勤。课前会发放PPT和作业题，建议基于作业加以预习，事半功倍。
-- （本部）理论课：霍鑫
+    > 文 / [Costannt](https://github.com/Costannt)，2026-01
+- 霍鑫
+  <!-- TOML-ITEM: id="review-霍鑫-1" -->
+  - （本部）理论课。
   - 授课风格：讲课生动有趣，课件内容丰富，非常精美。历年风评极佳。
-  - 听课建议：考勤情况未知。上课会提示重点。有课程后半部分的讲解视频 [自动控制实践第十九讲(1)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1x54y1Z7To/) 。
+  - 听课建议：考勤情况未知。上课会提示重点。
+    > 文 / [Costannt](https://github.com/Costannt)，2026-01
+- 姜宇
+  <!-- TOML-ITEM: id="review-姜宇-1" -->
+  - （本部）实验课。答疑态度非常一般，但实验给分相对宽松。
+    > 文 / [Costannt](https://github.com/Costannt)，2026-01
 
-> 文 / [Costannt](https://github.com/Costannt)，2026.1
+## 教材
+<!-- TOML-SECTION: title="教材" -->
 
-- （本部）实验课：姜宇
-  - 答疑态度非常一般，但实验给分相对宽松。
+<!-- TOML-ITEM: id="item-教材-1" -->
 
-> 文 / [Costannt](https://github.com/Costannt)，2026.1
+- **控制系统设计**（王广雄、何朕 / 清华大学出版社 / textbook）
+- **自动控制元件及线路**（梅晓榕 / 科学出版社 / 第五版 / textbook）
+- **智能控制系统及应用**（丛爽 / 中国科学技术大学出版社 / textbook）
+
+## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
+
+- [自动控制实践第十九讲(1) - 霍鑫](https://www.bilibili.com/video/BV1x54y1Z7To/)：课程后半部分的讲解视频。
+
+## 课程内容
+<!-- TOML-SECTION: title="课程内容" -->
+
+<!-- TOML-ITEM: id="item-课程内容-1" -->
+
+**本部《智能系统控制实践》23级授课内容概要：**
+
+1. **基础理论**：
+    - 绪论：控制系统组成、接口、发展历史。
+    - 电机原理与特性：直流电机（静态/动态特性、选型）、交流同步电机、感应电机及步进电机原理。
+    - 传感器：编码器、光栅的结构与工作原理。
+    - 设计流程：控制系统设计的主要内容与关键要素。
+
+2. **误差与信号分析**：
+    - 典型输入信号：性能需求分析、傅里叶分析。
+    - 静态误差：误差系数计算、减小静差的方法。
+    - 动态误差：动态误差系数、影响因素、跟踪误差。
+
+3. **系统性能与抗扰**：
+    - 噪声与干扰：定义、特性、抑制方法、评价指标。
+    - 干扰观测器：结构设计、参数原则、干扰补偿。
+    - 不确定性：鲁棒稳定性定理约束。
+    - 带宽设计：指标定义、压低/拓展带宽的方法。
+    - 抗饱和设计：Windup 现象、PI 控制器抗饱和。
+
+4. **系统类型与设计**：
+    - 伺服系统：模型描述、I型/改进I型设计。
+    - 调节系统：PID 控制器设计。
+    - 多回路控制：结构、设计原则。
+
+5. **智能控制**：
+    - 专家控制：基本方法与应用。
+    - 模糊控制：基本原理、控制器设计与应用。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
 
-### 深圳校区情况
+<!-- TOML-ITEM: id="item-关于考试-1" author_type="list" -->
 
-- 考试难度：较难
-- 说明：注意老师给出的重点。同时对于理论部分的学习主要是一些固定的模型，注意公式推导和转换即可。实践部分听重点，过一遍 PPT 即可。
+**深圳校区：**
 
-> 文 / [xander-2077](https://github.com/xander-2077)
-
+- **难度**：较难。
+- **重点**：注意老师给出的重点。理论部分主要是固定模型，注意公式推导和转换。实践部分过一遍 PPT 即可。
 - 主要是大背诵。
 
-> 文 / [Oliver Wu](https://github.com/oliverwu515)
+> 文 / [xander-2077](https://github.com/xander-2077)，[Oliver Wu](https://github.com/oliverwu515)
+
+<!-- TOML-ITEM: id="item-关于考试-2" -->
 
 从回忆卷子就可以看出，25 年的考试如往常一样的大背诵，我考试时不到一个小时手就写酸了。不过虽然老师上课的时候讲了很多次题目会完全重新出，但是实际上（除了那一道 Anti Windup 简答题）大部分题目还都是原题，甚至最后一道设计大题完完全全没有变化，因此只要把往年题都做做好，考试的时候就不会有太大问题。
 
 虽然听大家多会抱怨这门课，我个人觉得这门课在逻辑性和知识点密度上还是很不错的（相比自控实践 A 好了不是一点半点），大部分问题估计就是学生和老师之间沟通不够及时，很多问题没法有效解决，因此我写了往年题目的详解并放在 exams 文件夹下，供大家参考，大家做题时可以多和同学们交流，大部分情况都只能将大多数人认同的答案作为参考。
 
-> 文 / [psp_dada](https://github.com/pspdada), 2025.6
+> 文 / [psp_dada](https://github.com/pspdada)，2025-06
 
-### 本部情况
+<!-- TOML-ITEM: id="item-关于考试-3" -->
 
 - 考试难度：较难
 - 超级大背诵。
@@ -128,11 +153,12 @@
   - 关于专家控制，课程讲解、考试和作业中完全未涉及，因此未知其考察重点。*请注意，此为 23 级情况*
   - 能够理解并背诵模糊控制的优缺点；能够理解并背诵模糊控制的流程；理解模糊控制的关键。{{% /details %}}
 
-> 文 / [Costannt](https://github.com/Costannt)，2026.1
+> 文 / [Costannt](https://github.com/Costannt)，2026-01
 
-## 关于授课内容
+## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
 
-### 本部情况
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 > 以下为本部课程《智能系统控制实践》23 级情况。
 
@@ -252,21 +278,12 @@
   - 系统调试；
   - 实现模糊控制系统的参数优化。{{% /details %}} {{% /details %}}
 
-> 文 / [Costannt](https://github.com/Costannt)，2026.1
-
-## 关于作业
-
-### 本部情况
-
-- 布置频率较低，主要集中在控制系统设计部分。
-- 马克茂老师的作业风格类似考试习题，因此特别建议基于作业问题进行预习并认真完成。
-- 霍鑫老师的作业主要为各种仿真实验。
-
-> 文 / [Costannt](https://github.com/Costannt)，2026.1
+> 文 / [Costannt](https://github.com/Costannt)，2026-01
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
 
-### 来自本部
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 - 请认真看书。
 
@@ -276,4 +293,16 @@
 
   由于本课的大背诵特质，课程中很多内容（如：直流电机特性方程的推导、DFT / FFT 的计算）是不要求掌握的，请量力而行。
 
-> 文 / [Costannt](https://github.com/Costannt)，2026.1
+> 文 / [Costannt](https://github.com/Costannt)，2026-01
+
+## 关于作业
+<!-- TOML-SECTION: title="关于作业" -->
+
+<!-- TOML-ITEM: id="item-关于作业-1" -->
+
+本部：
+- 布置频率较低，主要集中在控制系统设计部分。
+- 马克茂老师的作业风格类似考试习题，因此特别建议基于作业问题进行预习并认真完成。
+- 霍鑫老师的作业主要为各种仿真实验。
+
+> 文 / [Costannt](https://github.com/Costannt)，2026-01
