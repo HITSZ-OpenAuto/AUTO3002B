@@ -116,7 +116,8 @@
 - 考试难度：较难
 - 超级大背诵。
 
-{{% details title="[Costannt](https://github.com/Costannt)认为的重点" closed="true"%}}
+<details>
+<summary>[Costannt](https://github.com/Costannt)认为的重点</summary>
 
 - 对元件部分的要求是：
 
@@ -151,7 +152,8 @@
 - 对智能控制部分的要求是：
 
   - 关于专家控制，课程讲解、考试和作业中完全未涉及，因此未知其考察重点。*请注意，此为 23 级情况*
-  - 能够理解并背诵模糊控制的优缺点；能够理解并背诵模糊控制的流程；理解模糊控制的关键。{{% /details %}}
+  - 能够理解并背诵模糊控制的优缺点；能够理解并背诵模糊控制的流程；理解模糊控制的关键。
+</details>
 
 > 文 / [Costannt](https://github.com/Costannt)，2026-01
 
@@ -164,7 +166,8 @@
 
 具体参见当年的「智能系统控制实践-课程教学大纲」
 
-{{% details title="理论授课（56学时）"closed="true" %}}
+<details>
+<summary>理论授课（56学时）</summary>
 
 - 绪论（2学时）
   - 掌握控制系统的基本组成、控制元件在控制系统中的作用、基本要求与指标；
@@ -242,11 +245,14 @@
 - 模糊控制及应用（4学时）
   - 掌握模糊控制的基本原理；
   - 掌握模糊控制器的设计方法；
-  - 掌握模糊控制器应用方法。{{% /details %}}
+  - 掌握模糊控制器应用方法。
+</details>
 
-{{% details title="实验" closed="true"%}}
+<details>
+<summary>实验</summary>
 
-{{% details title="实物实验" closed="true"%}}
+<details>
+<summary>实物实验</summary>
 
 - 实验一：电机位置伺服系统模型辨识（4学时）
   - 掌握电机位置伺服系统被控对象频率特性测试方法；
@@ -261,9 +267,11 @@
 - 实验四：电机位置伺服系统多回路控制器实验验证（4学时）
   - 掌握电机位置伺服系统角位置、角速度、电流等多回路控制系统实现方式；
   - 掌握多回路设计、调试准则；
-  - 掌握多回路性能测试的工程实现。{{% /details %}}
+  - 掌握多回路性能测试的工程实现。
+</details>
 
-{{% details title="仿真实验" closed="true"%}}
+<details>
+<summary>仿真实验</summary>
 
 - 实验五：倒立摆的模糊自适应PID控制器设计（8学时）
   - 掌握倒立摆的建模仿真；
@@ -276,7 +284,10 @@
   - 构建伺服系统的模糊推理规则；
   - 设计模糊控制器；
   - 系统调试；
-  - 实现模糊控制系统的参数优化。{{% /details %}} {{% /details %}}
+  - 实现模糊控制系统的参数优化。
+</details>
+
+</details>
 
 > 文 / [Costannt](https://github.com/Costannt)，2026-01
 
