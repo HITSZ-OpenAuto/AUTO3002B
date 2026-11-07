@@ -1,8 +1,8 @@
 {
   ".github/workflows/trigger-workflow.yml": {
-    "size": 518,
-    "time": 1763814269,
-    "hash": "cf90a98c6b627d4268c38e9d72be07f7878f67d1"
+    "size": 554,
+    "time": 1794022708,
+    "hash": "4b1ccb66543d0a9dfc636e87ef6e39946dc67dcd"
   },
   ".gitignore": {
     "size": 15,
