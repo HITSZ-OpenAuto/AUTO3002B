@@ -124,6 +124,56 @@
     "time": 1768932814,
     "hash": "cdaeff2ad007f10a0435f7552717b29c212c99cf"
   },
+  "assignments/深圳/2026_BCC/hw1/HW1.pdf": {
+    "size": 8191206,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw1/code/HW1_5.m": {
+    "size": 1406,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw1/simu/HW1_7_DOB_no.slx": {
+    "size": 85349,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw1/simu/HW1_7_DOB_r1_no.slx": {
+    "size": 83118,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw1/simu/HW1_7_DOB_r1_yes.slx": {
+    "size": 98926,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw1/simu/HW1_7_DOB_yes.slx": {
+    "size": 91304,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw1/simu/HW1_7_feedforward_no.slx": {
+    "size": 82056,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw2/HW2.pdf": {
+    "size": 10052271,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw2/simu/HW2_5_antiwindup.slx": {
+    "size": 98730,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
+  "assignments/深圳/2026_BCC/hw2/simu/HW2_6_antiwindup_unstable.slx": {
+    "size": 98060,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
+  },
   "assignments/深圳/LL/HW1.pdf": {
     "size": 64620,
     "time": 1768932814,
@@ -383,6 +433,11 @@
     "size": 1000309,
     "time": 1768932814,
     "hash": "cdaeff2ad007f10a0435f7552717b29c212c99cf"
+  },
+  "labs/深圳/2026/BCC/2026-BCC_实验报告.pdf": {
+    "size": 1767545,
+    "time": 1795393349,
+    "hash": "d301eee3efe48fcad913e351839eb839b948ee93"
   },
   "notes/.gitkeep": {
     "size": 0,
